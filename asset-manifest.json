@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/texi-app/static/css/main.999afbf5.css",
+    "main.js": "/texi-app/static/js/main.5b65e5fd.js",
+    "index.html": "/texi-app/index.html",
+    "main.999afbf5.css.map": "/texi-app/static/css/main.999afbf5.css.map",
+    "main.5b65e5fd.js.map": "/texi-app/static/js/main.5b65e5fd.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.999afbf5.css",
+    "static/js/main.5b65e5fd.js"
+  ]
+}
